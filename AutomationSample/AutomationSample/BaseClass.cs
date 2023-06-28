@@ -14,6 +14,7 @@ namespace SeleniumWebdriver.BaseClasses
             //option.AddArgument("--headless");
             //option.AddExtension(@"C:\Users\rahul.rathore\Desktop\Cucumber\extension_3_0_12.crx");
             // Logger.Info(" Using Chrome Options ");
+
             return option;
         }
     }
